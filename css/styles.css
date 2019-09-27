@@ -55,3 +55,32 @@ footer{
 	text-align: center;
 	margin-top: 20px;
 }
+
+/* Styles for all the images listed under the class "equip" */
+.equip{
+	float: left;
+	padding-right: 20px;
+}
+
+/* Styles for the unordered lists */
+ul{
+	margin-bottom: 50px;
+	list-style-position: inside;
+}
+
+/* Styles for the description terms of a list */
+dt{
+	font-weight: bold;
+}
+
+/* Styles for the descriptions of a term in a list */
+dd{
+	padding-bottom: 20px;
+}
+
+/* Styles for all the phone numbers listed under the class "mobile" */
+.mobile{
+	float: left;
+	padding-right: 20px;
+}
+
